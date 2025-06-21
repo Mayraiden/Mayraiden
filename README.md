@@ -1,49 +1,50 @@
-# 👋 Hi, i'm Vitas!  
-### **Frontend Developer | Music Lover | Code Adventurer**  
-
-[![Website](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=google-chrome)](https://your-website.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/vchronos)
-
+# 👋 Hi, I'm Vitas!  
+### **Frontend Architect | State Management Wizard | UI Craftsman**  
 
 ---
 
-###
+### 🛠️ **Tech Stack**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite,react,redux,tailwind,ts" height="50" alt="tech stack" />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Zustand-%2335495e.svg?logo=redux&logoColor=white" height="30" alt="zustand" />
 </div>
 
 ---
 
-###
+### 🌐 **Connect With Me**  
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="[YOUR_TWITTER_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" height="30" alt="Twitter"/>
+  </a>
+  <a href="[YOUR_TG_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" height="30" alt="Telegram"/>
+  </a>
 </div>
 
 ---
 
+### ⚡ **GitHub Analytics**  
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Mayraiden&show_icons=true&theme=dracula&hide_border=true" height="165" alt="stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraiden&layout=compact&theme=dracula&hide_border=true&exclude_repo=github-readme-stats" height="165" alt="languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://streak-stats.demolab.com?user=Mayraiden&theme=dracula&hide_border=true&border_radius=6&mode=weekly" height="180" alt="streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-###
-
----
-
-> "First, solve the problem. Then, write the code."  
