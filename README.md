@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vite,react,redux,tailwind,ts" height="50" alt="tech stack" />
   <img width="20" />
-  <img src="https://img.shields.io/badge/Zustand-%2335495e.svg?logo=redux&logoColor=white" height="30" alt="zustand" />
 </div>
 
 ---
@@ -16,12 +15,6 @@
 ### 🌐 **Connect With Me**  
 
 <div align="center">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="[YOUR_TWITTER_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" height="30" alt="Twitter"/>
-  </a>
   <a href="[YOUR_TG_URL]" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" height="30" alt="Telegram"/>
   </a>
