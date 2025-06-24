@@ -15,7 +15,7 @@
 ### 🌐 **Connect With Me**  
 
 <div align="center">
-  <a href="[YOUR_TG_URL]" target="_blank">
+  <a href="[t.me/vchronos]" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" height="30" alt="Telegram"/>
   </a>
 </div>
