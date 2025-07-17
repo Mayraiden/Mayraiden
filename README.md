@@ -28,9 +28,6 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mayraiden&show_icons=true&theme=dracula&hide_border=true" height="165" alt="stats"/>
-      </td>
-      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraiden&layout=compact&theme=dracula&hide_border=true&exclude_repo=github-readme-stats" height="165" alt="languages"/>
       </td>
     </tr>
