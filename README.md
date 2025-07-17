@@ -32,7 +32,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="1">
         <img src="https://streak-stats.demolab.com?user=Mayraiden&theme=dracula&hide_border=true&border_radius=6&mode=weekly" height="180" alt="streak"/>
       </td>
     </tr>
