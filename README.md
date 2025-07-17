@@ -24,17 +24,4 @@
 
 ### ⚡ **GitHub Analytics**  
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraiden&layout=compact&theme=dracula&hide_border=true&exclude_repo=github-readme-stats" height="165" alt="languages"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="1">
-        <img src="https://streak-stats.demolab.com?user=Mayraiden&theme=dracula&hide_border=true&border_radius=6&mode=weekly" height="180" alt="streak"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraiden&layout=compact&theme=dracula&hide_border=true&exclude_repo=github-readme-stats" height="165" alt="languages"/> </td> <td> <img src="https://streak-stats.demolab.com?user=Mayraiden&theme=dracula&hide_border=true&border_radius=6&mode=weekly" height="180" alt="streak"/> </td> </tr> </table> </div>
