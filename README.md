@@ -12,10 +12,10 @@
 
 <br></br>
 
-**Основные технологии:** React, TypeScript, Zustand, Next.js, threejs 
-**Инструменты:** Vite, Webpack, Docker  
-**Стилизация:** Tailwind CSS, SASS/SCSS, UI kits (like Ant Design) 
-**Знаком с:** NestJS, PostgreSQL, Redis
+- **Основные технологии:** React, TypeScript, Zustand, Next.js, threejs 
+- **Инструменты:** Vite, Webpack, Docker  
+- **Стилизация:** Tailwind CSS, SASS/SCSS, UI kits (like Ant Design) 
+- **Знаком с:** NestJS, PostgreSQL, Redis
 
 ---
 
