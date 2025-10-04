@@ -7,7 +7,7 @@
 ### 🛠️ **Технический стек**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,redux,nextjs,vite,webpack,zustand,tailwind,sass,postgresql,docker" height="50" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,redux,nextjs,vite,webpack,threejs,tailwind,sass,postgresql,docker" height="50" alt="tech stack" />
 </div>
 
 **Основные технологии:** React, TypeScript, Redux, Zustand, Next.js  
