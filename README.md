@@ -10,10 +10,10 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,redux,nextjs,vite,webpack,threejs,tailwind,sass,postgresql,docker" height="50" alt="tech stack" />
 </div>
 
-**Основные технологии:** React, TypeScript, Redux, Zustand, Next.js  
+**Основные технологии:** React, TypeScript, Zustand, Next.js, threejs 
 **Инструменты:** Vite, Webpack, Docker  
-**Стилизация:** Tailwind CSS, Sass  
-**Дополнительно:** PostgreSQL
+**Стилизация:** Tailwind CSS, SASS/SCSS, UI kits (like Ant Design) 
+**Знаком с:** NestJS, PostgreSQL, Redis
 
 ---
 
