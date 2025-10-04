@@ -10,6 +10,8 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,redux,nextjs,vite,webpack,threejs,tailwind,sass,postgresql,docker" height="50" alt="tech stack" />
 </div>
 
+<br></br>
+
 **Основные технологии:** React, TypeScript, Zustand, Next.js, threejs 
 **Инструменты:** Vite, Webpack, Docker  
 **Стилизация:** Tailwind CSS, SASS/SCSS, UI kits (like Ant Design) 
