@@ -21,15 +21,7 @@
 
 ### 📊 **Статистика**
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraiden&layout=compact&theme=dracula&hide_border=true&exclude_repo=github-readme-stats" height="165" alt="languages graph"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayraiden&theme=dracula" alt="profile-details" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayraiden&theme=dracula" alt="repos-per-language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayraiden&theme=dracula" alt="most-commit-language" /> </div>
 
 ---
 
