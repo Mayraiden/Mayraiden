@@ -1,4 +1,4 @@
-# 👋 Привет, меня зовут Виталий!
+# 👋 Hi. My name is Vitaliy!
 
 ### **I am a frontend developer with 4+ years of expirience**
 
