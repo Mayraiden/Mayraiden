@@ -12,9 +12,9 @@
 
 <br></br>
 
-- **Main:** React, TypeScript, Zustand, Next.js, threejs 
+- **Main:** React, TypeScript, Zustand, MobX, Next.js, threejs 
 - **Build:** Vite, Webpack, Docker  
-- **Styles:** Tailwind CSS, SASS/SCSS, UI kits (like Ant Design) 
+- **Styles:** Tailwind CSS, SASS/SCSS, UI kits  
 - **Familiar with:** NestJS, PostgreSQL, Redis
 
 ---
